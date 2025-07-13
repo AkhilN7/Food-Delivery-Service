@@ -22,7 +22,7 @@ A distributed microservices architecture for a food ordering platform built usin
 
 \- \*\*Feign Client\*\* (inter-service communication)
 
-\- \*\*MySQL\*\* (database)
+\- \*\*Postgres\*\* (database)
 
 \- \*\*Maven\*\* (build tool)
 
